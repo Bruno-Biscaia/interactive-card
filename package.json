@@ -1,0 +1,20 @@
+{
+  "name": "interactive-card",
+  "version": "1.0.0",
+  "description": "Frontend project for a registration form for bank cards.",
+  "main": "app.js",
+  "scripts": {
+    "test": " ",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruno-Biscaia/interactive-card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bruno-Biscaia/interactive-card/issues"
+  },
+  "homepage": "https://github.com/Bruno-Biscaia/interactive-card#readme"
+}
